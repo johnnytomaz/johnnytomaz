@@ -2,7 +2,7 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnny-tomaz-69914b1bb/)
 
-![Johnny Tomaz Github Status](https://github-readme-stats.vercel.app/api?username=johnnytomaz&show_icons=true&theme=merko)  
+![Johnny Tomaz Github Status](https://github-readme-stats.vercel.app/api?username=johnnytomaz&show_icons=true&theme=dark)  
 
 ### Tecnologias! 💻
 
