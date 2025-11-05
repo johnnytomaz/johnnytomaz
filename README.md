@@ -12,6 +12,6 @@
 
 ### Linguagens mais usadas!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnytomaz&layout=donut)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnytomaz&layout=donut)
 
 ### Cada vez mais apaixonado por programação Back-end! Estudando muito as linguagem Python e Java, determinado a conseguir a minha primeira vaga! 🚀
